@@ -2,12 +2,12 @@
 ## It’s snowing in November?
 ### Historical Analysis of Seattle Weather
 
-#### Final Project for UW course DATA 512
-#### Created by: Libby Montague
-#### Date: 12/10/2017 
-#### Code and Documentation: Copyright 2017 Elizabeth Montague elizam8@uw.edu, under MIT License
+- Final Project for UW course DATA 512
+- Created by: Libby Montague
+- Date: 12/10/2017 
+- Code and Documentation: Copyright 2017 Elizabeth Montague elizam8@uw.edu, under MIT License
 
-  This project analyses historical Seattle weather. The indicators of climate change were considered on a local level. The data were obtained from the NOAA global daily summaries. The aspects considered were changes in minimum daily temperature, maximum daily temperature, rain fall, and snow fall. There appears to be some evidence of change, but the trends should be investigated more fully. This research project does not attempt to forecast the weather changes.    
+This project analyses historical Seattle weather. The indicators of climate change were considered on a local level. The data were obtained from the NOAA global daily summaries. The aspects considered were changes in minimum daily temperature, maximum daily temperature, rain fall, and snow fall. There appears to be some evidence of change, but the trends should be investigated more fully. This research project does not attempt to forecast the weather changes.    
 
 #### Research Questions:
 1. How has Seattle’s temperature changed over time?
